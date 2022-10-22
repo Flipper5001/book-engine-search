@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "homepage": "https://flipper5001.github.io/book-search-engine",
   "description": "",
   "main": "server.js",
   "scripts": {
