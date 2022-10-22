@@ -1,7 +1,7 @@
 {
+  "homepage": "https://flipper5001.github.io/book-search-engine",
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "homepage": "https://flipper5001.github.io/",
   "description": "",
   "main": "server/server.js",
   "scripts": {
